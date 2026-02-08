@@ -11,18 +11,22 @@
 <body>
 <header>
 <!-- Шапка сайта -->
+  Шапка сайта
 </header>
 
 <main>
 <!-- Основное содержимое -->
+  Основное содержимое
 </main>
 
 <footer>
 <!-- Подвал сайта -->
+  Подвал сайта
 </footer>
 
 <script src="script.js"></script>
 </body>
 </html>
+
 
 
