@@ -1,4 +1,4 @@
-<h3>Цветыс</h3>
+<h3>Цветы</h3>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -24,4 +24,5 @@
 <script src="script.js"></script>
 </body>
 </html>
+
 
